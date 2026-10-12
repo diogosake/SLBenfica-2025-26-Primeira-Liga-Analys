@@ -102,4 +102,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 * **Data Rights:** The SL Benfica name, logo, and original match statistics belong to their respective copyright holders (SL Benfica / Liga Portugal). This project was developed strictly for educational and portfolio demonstration purposes.
 * **Dashboard Design & DAX Code:** © 2026 Diogo Sakellarides Salgado. Free to use for reference with proper attribution.
 
-*
+
