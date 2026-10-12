@@ -17,6 +17,7 @@ Built entirely using **Power BI**, **DAX**, and **Power Query**, this project sh
 
 ---
 
+
 ## 📊 Season Summary KPIs
 
 > [!NOTE]
@@ -33,6 +34,12 @@ Built entirely using **Power BI**, **DAX**, and **Power Query**, this project sh
 ---
 
 ## 🖥️ Dashboard Views & Features
+
+<p align="center">
+  <img src="img/dashboardPage1.png" alt="Overview Dashboard" width="100%">
+   <img src="img/dashboardPage1.png" alt="Overview Dashboard" width="100%">
+   <img src="img/dashboardPage1.png" alt="Overview Dashboard" width="100%">
+</p>
 
 ### 📍 Page 1: Season Overview & Team Metrics
 Tracks high-level campaign statistics and macro performance trends:
