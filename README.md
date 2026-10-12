@@ -91,8 +91,15 @@ Focuses on squad roster depth, player origin, and physical load:
 
 1. Clone or download this repository to your local machine.
 2. Open `Benfica_LigaPortugal_2526.pbix` using **Power BI Desktop**.
-3. Use `Ctrl + Click` on the bottom-right arrow buttons (`➔`) to test interactive page navigation.
+
 
 ---
 
-*Developed as part of a Data Analytics & Business Intelligence Portfolio.*
+## 📜 License & Intellectual Property
+
+This project is open-source and available under the [MIT License](LICENSE). 
+
+* **Data Rights:** The SL Benfica name, logo, and original match statistics belong to their respective copyright holders (SL Benfica / Liga Portugal). This project was developed strictly for educational and portfolio demonstration purposes.
+* **Dashboard Design & DAX Code:** © 2026 Diogo Sakellarides Salgado. Free to use for reference with proper attribution.
+
+*
