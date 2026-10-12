@@ -38,7 +38,7 @@ Built entirely using **Power BI**, **DAX**, and **Power Query**, this project sh
 <p align="center">
   <img src="img/dashboardPage1.png" alt="Overview Dashboard" width="100%">
    <img src="img/dashboardPage2.png" alt="Overview Dashboard" width="100%">
-   <img src="img/dashboardPage3.png" alt="Overview Dashboard" width="100%">
+   <img src="img/dashboardpage3.png" alt="Overview Dashboard" width="100%">
 </p>
 
 ### 📍 Page 1: Season Overview & Team Metrics
